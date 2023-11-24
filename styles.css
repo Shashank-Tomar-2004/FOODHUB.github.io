@@ -6,6 +6,9 @@ body, html {
 .bgimg {
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('download(1).png'); /* Adjust the image name if necessary */
+  background-image: url('download (1).png');
   min-height: 90%;
+  width: 100%;
+  height: 100%;
+  margin-bottom: -100px;
 }
