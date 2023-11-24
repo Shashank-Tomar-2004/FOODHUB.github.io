@@ -1,0 +1,11 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bgimg {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('download(1).png'); /* Adjust the image name if necessary */
+  min-height: 90%;
+}
